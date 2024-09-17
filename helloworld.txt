@@ -6,3 +6,4 @@ hello world
 hello world
 second time
 hello world master commit
+hello world fix-bug commit
